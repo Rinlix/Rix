@@ -2,7 +2,6 @@
 
 import random
 import time
-import sys
 confirmed = True
 while confirmed:
     true = True
