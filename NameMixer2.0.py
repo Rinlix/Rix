@@ -2,8 +2,7 @@
 
 import random
 import time
-confirmed = True
-while confirmed:
+while True:
     true = True
     def rigged():
         print('DToo much cringe and toxic, cannot survive...')
